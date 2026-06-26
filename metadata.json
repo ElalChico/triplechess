@@ -1,0 +1,6 @@
+{
+  "name": "Triple Chess 24x8",
+  "description": "Juega al Triple Ajedrez de 24x8 contra una potente Inteligencia Artificial local con rotación de tablero y selección de color.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

@@ -1,0 +1,15 @@
+node_modules/
+dist/
+dist-electron/
+.env
+.env.local
+*.log
+.DS_Store
+Thumbs.db
+
+# Firebase (local)
+.firebase/
+*-debug.log
+firebase.json
+.firebaserc
+src/firebase.ts
