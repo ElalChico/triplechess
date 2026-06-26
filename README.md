@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo.webp" alt="Triple Chess 24x8" width="570" />
+  <img src="public/logo.webp" alt="Triple Chess 24x8" width="370" />
 </p>
 
 
