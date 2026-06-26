@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="public/logo.webp" alt="Triple Chess 24x8" width="250" />
+  <img src="public/logo.webp" alt="Triple Chess 24x8" width="570" />
 </p>
+
+
 
 <h1 align="center">Triple Chess 24x8 ♚♔</h1>
 
