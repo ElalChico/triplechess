@@ -31,6 +31,8 @@ Como el **Sudoku**,(lógica combinatoria espaciotemporal) exige mirar desde múl
 | **Todos los Reyes** | Hay que capturar los tres reyes enemigos para ganar. |
 | **Caza de Reyes** | Sin jaques ni mates. Gana quien capture más reyes. |
 
+PRUEBA LA APP EN https://triplechess.web.app/
+
 ## Cómo ejecutar
 
 ```bash
